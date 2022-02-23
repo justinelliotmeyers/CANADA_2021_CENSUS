@@ -1,0 +1,11 @@
+POPULATIONS
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810001501
+
+2021 GIS
+https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21
+
+CBF
+	STATISTICAL BOUNDARIES
+	DISSEMINATION AREAS https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/lda_000b21a_e.zip
+	DISSEMINATION BLOCKS https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/ldb_000b21a_e.zip
+	Aggregate dissemination areas https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/lada000b21a_e.zip
